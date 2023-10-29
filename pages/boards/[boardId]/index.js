@@ -11,7 +11,7 @@ export default function BoardPage() {
   );
 }
 
-export const getServerSideProps = () => {
-  //만약 서버사이드 렌더링 페이지라면??=>out폴더 생성불가
-  //                                   =>이런 경우 next.config.js에서 exportpathMaps로
-};
+// export const getServerSideProps = () => {
+//   //만약 서버사이드 렌더링 페이지라면??=>out폴더 생성불가
+//   //                                   =>이런 경우 next.config.js에서 exportpathMaps로
+// };
